@@ -1,0 +1,1 @@
+linkopts(javascript) = "+codemirror-view/codemirror-view.js"

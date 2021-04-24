@@ -1,0 +1,6 @@
+(library
+ (name codemirror_view)
+ (public_name codemirror-view)
+ ; (js_of_ocaml
+ ;  (javascript_files codemirror-view-babel.js))
+ (libraries brr))

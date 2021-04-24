@@ -1,0 +1,4 @@
+(library
+ (name codemirror_text)
+ (public_name codemirror-text)
+ (libraries brr))
